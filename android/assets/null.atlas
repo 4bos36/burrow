@@ -1,0 +1,11 @@
+null.png
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+null
+  rotate: false
+  xy: 0, 0
+  size: 320, 384
+  orig: 320, 384
+  offset: 0, 0
+  index: -1

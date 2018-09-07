@@ -1,0 +1,74 @@
+texture_atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ru
+  rotate: false
+  xy: 0, 320
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+en
+  rotate: false
+  xy: 0, 448
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+volume_up
+  rotate: false
+  xy: 256, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+volume_down
+  rotate: false
+  xy: 320, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+check_on
+  rotate: false
+  xy: 256, 64
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+check_off
+  rotate: false
+  xy: 256, 128
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 384, 128
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+home_click
+  rotate: false
+  xy: 480, 128
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 384, 0
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 480, 0
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1

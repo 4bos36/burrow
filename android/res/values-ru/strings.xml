@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Норка</string>
+    <string name="version">v.1.1.0</string>
+    <string name="Preferences">Настройки</string>
+    <string name="Music">Музыка</string>
+    <string name="Sound">Звуки</string>
+    <string name="Lang">Язык</string>
+    <string name="Start">Играть</string>
+    <string name="Records">Рекорды</string>
+    <string name="Exit">Выход</string>
+    <string name="Exit_dialog">Уверены? хнык</string>
+    <string name="Back">Назад</string>
+    <string name="Yes">Да</string>
+    <string name="Ok">Ок</string>
+    <string name="No">Нет</string>
+    <string name="Save">Сохранить</string>
+    <string name="best_name_no">Нету рекордов</string>
+    <string name="no_records">Нету рекордов</string>
+    <string name="GameOver">Проиграли</string>
+    <string name="SaveResult">Сохранить результат</string>
+    <string name="SaveName">Ведите своё имя</string>
+    <string name="Lider">Лидер:</string>
+    <string name="TopTop">ТопТоп</string>
+    <string name="digit_keyboard_font">fonts/spirits.ttf</string>
+    <string name="Animation">Графика +</string>
+    <string name="flagRu">Русский интерфейс</string>
+    <string name="flagEng">Английский интерфейс</string>
+
+</resources>

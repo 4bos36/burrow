@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Burrow</string>
+    <string name="version">v.1.1.0</string>
+    <string name="Preferences">Preferences</string>
+    <string name="Music">Music</string>
+    <string name="Sound">Sound</string>
+    <string name="Lang">Language</string>
+    <string name="Start">Start</string>
+    <string name="Records">Records</string>
+    <string name="Exit">Exit</string>
+    <string name="Exit_dialog">Are you sure? :,(</string>
+    <string name="Back">Back</string>
+    <string name="Yes">Yes</string>
+    <string name="Ok">Ok</string>
+    <string name="No">No</string>
+    <string name="Save">Save</string>
+    <string name="best_name_no">No records</string>
+    <string name="no_records">No records</string>
+    <string name="GameOver">Game Over</string>
+    <string name="SaveResult">Save Result</string>
+    <string name="SaveName">Enter your name</string>
+    <string name="Lider">Best is:</string>
+    <string name="TopTop">TopTop</string>
+    <string name="digit_keyboard_font">fonts/spirits.ttf</string>
+    <string name="Animation">Graphics +</string>
+    <string name="flagRu">Russian interface</string>
+    <string name="flagEng">English interface</string>
+
+</resources>

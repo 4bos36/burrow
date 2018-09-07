@@ -1,0 +1,32 @@
+caterpillar.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caterpillar_1
+  rotate: false
+  xy: 0, 0
+  size: 64, 192
+  orig: 64, 192
+  offset: 0, 0
+  index: -1
+caterpillar_2
+  rotate: false
+  xy: 64, 0
+  size: 64, 192
+  orig: 64, 192
+  offset: 0, 0
+  index: -1
+caterpillar_3
+  rotate: false
+  xy: 128, 0
+  size: 64, 192
+  orig: 64, 192
+  offset: 0, 0
+  index: -1
+caterpillar_4
+  rotate: false
+  xy: 192, 0
+  size: 64, 192
+  orig: 64, 192
+  offset: 0, 0
+  index: -1
